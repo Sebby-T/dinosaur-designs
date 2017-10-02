@@ -10,11 +10,13 @@ nav {
 
 a:link {
   color: #793284;
+  font-size: 1.125rem
 }
 
 a:hover {
   color: #b42885;
 }
+
 li {
   list-style-type: none;
 }
@@ -23,14 +25,18 @@ img {
   width: 100%;
 }
 
-h1 {
+h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
 }
 
 figcaption {
-  font-size: .9rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
+}
+
+.hadro {
+  font-size: 1.025rem;
 }
