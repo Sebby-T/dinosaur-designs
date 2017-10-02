@@ -1,28 +1,28 @@
 html {
   background-color: #f2f1ed;
-  font-family: "gerogia", serif;
+  font-family: gerogia, serif;
 }
-nav {
+nav{
   font-family: "Patua One", cursive;
 }
-a:link {
+a:link{
   color: #793284;
 }
-a:hover {
+a:hover{
   color: #b42885;
 }
-li {
+li{
   list-style-type: none;
 }
-img {
+img{
   width: 100%;
 }
-h1 {
+h1{
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
 }
-figcaption {
+figcaption{
   font-size: .9rem;
   font-style: italic;
   text-align: center;
