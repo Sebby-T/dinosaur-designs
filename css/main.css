@@ -3,26 +3,32 @@ html {
   font-family: gerogia, serif;
   line-height: 1.5;
 }
+
 nav {
   font-family: "Patua One", cursive;
 }
+
 a:link {
   color: #793284;
 }
+
 a:hover {
   color: #b42885;
 }
 li {
   list-style-type: none;
 }
+
 img {
   width: 100%;
 }
+
 h1 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
 }
+
 figcaption {
   font-size: .9rem;
   font-style: italic;
