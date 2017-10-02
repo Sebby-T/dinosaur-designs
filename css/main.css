@@ -5,7 +5,6 @@ html{
 nav{
   font-family: 'Patua One', cursive;
 }
-a,
 a:link{
   color: #793284;
 }
@@ -21,6 +20,7 @@ img{
 h1{
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
 figcaption{
   font-size: .9rem;
